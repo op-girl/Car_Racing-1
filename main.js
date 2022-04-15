@@ -1,5 +1,5 @@
 canvas = document.getElementById('myCanvas');
-ctx = canvas.getcontext("2d");
+ctx = canvas.getContext("2d");
 
 car1_width = 120;
 car1_height = 70;
